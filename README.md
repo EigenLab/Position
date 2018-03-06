@@ -1,4 +1,4 @@
-# Company Profile
+# Company Profile:
 
 Founded in late 2016, Eigen Tech employs the world's most advanced machine/deep learning techniques to significantly improve the efficiency and quality of media production. To be more specific, Eigen Tech develops a series of algorithm based applications in helping text-based content generation, graphic design, short-video edition and other rich content productions.
 
@@ -6,7 +6,7 @@ The founding team of Eigen Tech have proven tracks record of planning, developin
 
 In 2017, Eigen tech has successfully raised 20+ million USD from several top VCs
 
-# Opening Jobs
+# Opening Jobs:
 
 + Tech Team
 
@@ -39,3 +39,9 @@ In 2017, Eigen tech has successfully raised 20+ million USD from several top VCs
      - [应用开发实习生](Position/应用开发实习生.md)
      
      - [爬虫实习生](Position/爬虫实习生.md)
+
+# Contact:
+
+Tel: 0571-81061991
+
+Email:hr@aidigger.com
