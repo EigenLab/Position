@@ -34,7 +34,7 @@ In 2017, Eigen tech has successfully raised 20+ million USD from several top VCs
 
      - [NLP算法工程师](Position/NLP算法工程师.md)
 
-     - [web前端实习生](Position/前端实习生.md)
+     - [前端开发工程师](Position/前端开发实习生.md)
 
      - [ETL开发实习生](Position/ETL开发实习生.md)
 
