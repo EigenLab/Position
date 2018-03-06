@@ -10,14 +10,20 @@ In 2017, Eigen tech has successfully raised 20+ million USD from several top VCs
 
 + Tech Team
 
-     1.[资深图像算法工程师](Position/资深图像算法工程师.md)
+     - [资深图像算法工程师](Position/资深图像算法工程师.md)
 
-     2.[资深算法工程师-NLP方向](Position/资深算法工程师-NLP方向.md)
+     - [资深算法工程师-NLP方向](Position/资深算法工程师-NLP方向.md)
 
-     3.[web前端架构师](Position/前端架构师.md)
+     - [web前端架构师](Position/前端架构师.md)
 
-     4.[ETL开发工程师](Position/ETL开发工程师.md)
+     - [ETL开发工程师](Position/ETL开发工程师.md)
 
-     5.[后端开发工程师](Position/后端开发工程师.md)
+     - [后端开发工程师](Position/后端开发工程师.md)
 
-     6.[爬虫开发工程师](Position/爬虫开发工程师.md)
+     - [爬虫开发工程师](Position/爬虫开发工程师.md)
+
++ Function Team
+
+     - [行政助理兼出纳](Position/行政助理兼出纳.md)
+     
+     - [财务主管](Position/财务主管.md)
