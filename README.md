@@ -8,7 +8,7 @@ In 2017, Eigen tech has successfully raised 20+ million USD from several top VCs
 
 # Opening Jobs
 
-### 1.资深图像算法工程师
+### 1.[资深图像算法工程师](Position/资深图像算法工程师.md)
 
 ##### 职位描述：
 
