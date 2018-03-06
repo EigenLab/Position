@@ -30,12 +30,10 @@ In 2017, Eigen tech has successfully raised 20+ million USD from several top VCs
 
 + Intern
 
-     - 算法实习生
+     - 算法实习生
 
-     - 前端开发实习生
+     - 前端开发实习生
      
-     - 应用开发实习生
-     
-     - 爬虫实习生
+
 
   
