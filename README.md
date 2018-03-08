@@ -31,9 +31,9 @@ In 2017, Eigen tech has successfully raised 20+ million USD from several top VCs
 + Intern Team
 
 
-     - [计算机视觉算法工程师](Position/计算机视觉算法工程师.md)
+     - [计算机视觉算法实习生](Position/计算机视觉算法实习生.md)
      
-     - [NLP算法工程师](Position/NLP算法工程师.md)
+     - [NLP算法实习生](Position/NLP算法实习生.md)
 
      - [Web前端开发实习生](Position/前端开发实习生.md)
      
